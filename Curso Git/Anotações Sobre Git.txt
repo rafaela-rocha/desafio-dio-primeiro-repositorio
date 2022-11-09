@@ -1,0 +1,34 @@
+                                CURSO GIT/GITHUB
+
+- GIT: tecnologia de versionamento de código distribuído, ele tem como principais vantagens o monitoramento de diferentes
+versões do código, facilita o trabalho em equipe e o aperfeiçoamento e refinamento do código, visto que outras pessoas podem 
+contribuir. 
+Para ter acesso ao GIT deve-se fazer o download por meio do site https://git-scm.com/downloads.
+
+A interação com o GIT é realizada por meio de comandos, pois o mesmo não possui interface gráfica. 
+
+
+-GITHUB: é o repositório de armazenamento remoto. Por meio deste, é possível fazer a interação do GIT com o GITHUB. 
+
+
+
+                           Principais comandos utilizados no GIT
+
+- git init: cria repositório no GIT
+
+- git config --global user.email e user.name: configurar o commit com os dados do autor. Seria ideal utilizar os mesmos
+dados utilizados no cadastro do GITHUB. 
+
+-git clone: comando para clonar repositório no GitHub. 
+
+-git add* : para adicionar todas as modificações ou novos arquivos para o GIT ter acesso. Sai do status Untraked para Staged.
+Obs: não esquecer que após add é necessário dar o comando commit. 
+
+- git commit -m : para o arquivo deixar o status staged e ficar no repositorio local do GIT. Nesse status o arquivo está 
+pronto para ser enviado para o repositório remoto- GitHub.
+
+- git push origin main/master: envia o arquivo do repositório local (Git) para repositório remoto (GitHub).  
+
+
+
+ - 
